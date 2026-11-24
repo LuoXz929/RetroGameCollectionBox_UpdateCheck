@@ -1,0 +1,2 @@
+# RetroGameCollectionBox_UpdateCheck
+Update Check for RetroGameCollectionBox
